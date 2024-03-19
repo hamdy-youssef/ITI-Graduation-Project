@@ -1,0 +1,6 @@
+framework module Pods_ITI_Graduation_Project {
+  umbrella header "Pods-ITI Graduation Project-umbrella.h"
+
+  export *
+  module * { export * }
+}
